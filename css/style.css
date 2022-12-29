@@ -1,0 +1,44 @@
+h3 {
+  color: chocolate;
+  text-decoration: underline;
+}
+
+#Ejemplo-id {
+  color: crimson;
+}
+.Ejemplo-class {
+  color: darkgreen;
+}
+.prueba-css {
+  color: chocolate;
+}
+#caja {
+  width: 150px;
+  height: 150px;
+  background: aqua;
+  font-size: 20px;
+}
+.grupo {
+  width: 150px;
+  height: 150px;
+  background: aqua;
+  margin: 10px;
+
+  color: chocolate;
+  font-weight: bold;
+}
+h3 span {
+  color: darkviolet;
+  font-size: 20px;
+}
+article {
+  color: rgb(61, 108, 61);
+  background-color: lightgoldenrodyellow;
+  font-size: 32px;
+}
+article.simple {
+  color: rgb(31, 79, 31);
+  background-color: rgb(148, 148, 54);
+  font-size: 32px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}

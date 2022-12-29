@@ -1,0 +1,40 @@
+/*comentarios */
+
+.font-example {
+  font-weight: bold;
+  color: aquamarine;
+  background-color: chocolate;
+  text-align: center;
+}
+body {
+  font-family: "andika", sans-serif;
+}
+.centrado {
+  text-align: center;
+}
+.decoration {
+  text-decoration: underline;
+}
+
+#top {
+  position: relative;
+  margin: 20px auto;
+  width: 1000px;
+  height: 192px;
+  background: #888;*/
+}
+#top ul {
+  width: 1010px;
+  height: 192px;
+  background: rgba(195, 150, 66, 0.509);
+  color: brown;
+}
+
+#top ul li {
+  float: left;
+  width: 326px;
+  height: 192px;
+  background: rgb(56, 168, 110);
+  margin-right: 10px;
+}
+
